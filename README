@@ -1,0 +1,5 @@
+A collection of themes I found, in the format
+
+    bg reg green yellow blue magenta cyan fg dim_fg theme_name
+
+to look at them visually, see ./out.html
