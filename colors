@@ -32,7 +32,7 @@ f2ecbc c84053 6f894e 77713f 4d699b b35b79 597b75 545464 8a8980 kanagawa_lotus
 222222 685742 5f875f b36d43 78824b bb7744 c9a554 c2c2b0 666666 miasma
 2e3440 bf616a a3be8c ebcb8b 81a1c1 b48ead 88c0d0 d8dee9 4c566a nord
 191724 eb6f92 31748f f6c177 9ccfd8 c4a7e7 ebbcba e0def4 6e6a86 rose_pine
-faf4ed b4647a 286983 ea9d34 56949f 907aa9 d7827e 575279 9893a5 rose_pine_dawn
+faf4ed b4647a 286983 ea9d34 56949f 907aa9 d7827e 575279 c9c4c9 rose_pine_dawn
 232136 eb6f92 3e8fb0 f6c177 9ccfd8 c4a7e7 ea9a97 e0def4 6e6a86 rose_pine_moon
 002b36 dc322f 859900 b58900 268bd2 d33682 2aa198 839496 586e75 solarized_dark
 fdf6e3 dc322f 859900 b58900 268bd2 d33682 2aa198 657b83 93a1a1 solarized_light
@@ -43,6 +43,8 @@ fdf6e3 dc322f 859900 b58900 268bd2 d33682 2aa198 657b83 93a1a1 solarized_light
 273136 f76c7c 9cd57b e3d367 78cee9 baa0f8 f3a96a e1e2e3 82878b sonokai_maia
 2d2a2e f85e84 9ecd6f e6c463 7accd7 ab9df2 ef9062 e3e1e4 848089 sonokai_shusia
 262335 fe4450 72f1b8 f3e70f 03edf9 ff7edb 03edf9 ffffff 848bbd synthwave84
+172526 d2696c 88b497 ffd7aa 91c4c0 f9ada0 87cbb1 dbd2c7 568270 thorn_forest
+f9fdce c5524d 5d922e dca838 3b9180 cf7859 0d9039 3d4a2b a3a776 thorn_field
 e1e2e7 f52a65 587539 8c6c3e 2e7de9 9854f1 007197 3760bf a1a6c5 tokyonight_day
 222436 ff757f c3e88d ffc777 82aaff c099ff 86e1fc c8d3f5 636da6 tokyonight_moon
 1a1b26 f7768e 9ece6a e0af68 7aa2f7 bb9af7 7dcfff c0caf5 565f89 tokyonight_night
